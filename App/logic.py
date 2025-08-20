@@ -183,6 +183,7 @@ def add_book_tags_file(catalog, booktagsfile):
     return catalog
 
 
+
 def create_book_tag_list(catalog):
     """
     Esta funcion crea una lista vacia para booktags.
